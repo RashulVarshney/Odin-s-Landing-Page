@@ -1,2 +1,2 @@
-# Odin-s-Landing-Page
-Practice for CSS
+Odin's Landing Page (NOT the one from Asgard)
+
